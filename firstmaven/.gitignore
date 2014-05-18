@@ -1,0 +1,9 @@
+bin
+
+.metada
+ta
+target/
+
+.idea
+
+*.iml

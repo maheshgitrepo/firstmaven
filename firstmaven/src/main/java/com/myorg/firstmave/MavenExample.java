@@ -6,6 +6,6 @@ package com.myorg.firstmave;
 public class MavenExample {
 
     public static void main(String[] args) {
-        System.out.println("cherry pick1");
+        System.out.println("cherry pick2");
     }
 }
