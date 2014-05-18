@@ -6,6 +6,7 @@ package com.myorg.firstmave;
 public class MavenExample {
 
     public static void main(String[] args) {
+        System.out.println("On conflict branch1");
         System.out.println("On conflict branch 2");
     }
 }
