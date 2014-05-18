@@ -6,6 +6,6 @@ package com.myorg.firstmave;
 public class MavenExample {
 
     public static void main(String[] args) {
-        System.out.println("My first java - after master and test branch merger");
+        System.out.println("After cherry pick1 on master from testing");
     }
 }
